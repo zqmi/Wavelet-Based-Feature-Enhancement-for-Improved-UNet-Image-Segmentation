@@ -97,7 +97,7 @@ The enhanced model retains the classical UNet structure with these changes:
 ## 🖼️ Example Results
 
 <div align="center">
-  <img src="assets/example_predictions.png" alt="Wavelet UNet Results" width="600"/>
+  <img src="visual/gt_0_0.png" alt="Wavelet UNet Results" width="600"/>
 </div>
 
 Above are the prediction results showing the ground-truth labels and corresponding output from the wavelet-enhanced UNet. The predicted contours are sharp and structurally accurate.
